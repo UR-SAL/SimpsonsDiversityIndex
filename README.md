@@ -3,8 +3,8 @@ This repository contains the coder for paper "Variable Selection and COVID-19 Ef
 The code was written by Tim Wen and supervised by Kyle Redican.
 # Instructions
 The project tasks are coded via R. Necessary packages have already been included at the beginning of the code. 
-The code is separated into two parts, for median household income SDI variable, please go to the MHI folder; for race and age SDI variable, please go to the Race and Age folder. 
-Note that you need a census API in order to download the data. 
+The code is separated into two parts, for median household income SDI variable, please download the MHI file; for race and age SDI variable, please go to the race and age file. 
+Note that you need a census API for census data extraction. 
 
 
 
